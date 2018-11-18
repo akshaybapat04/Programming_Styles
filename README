@@ -1,0 +1,59 @@
+############################################################################################################################
+Week 6
+############################################################################################################################
+Part A) Run as java TwentySix ../pride-and-prejudice.txt    (Written in Java)
+Part B) Run as node TwentySeven.js ../pride-and-prejudice.txt    (Written in Node.js) 
+
+If you do not pass the argument, the code will fail.
+Thanks
+
+############################################################################################################################
+Week 5
+############################################################################################################################
+Part A) Run as java Fourteen ../pride-and-prejudice.txt    (Written in Java)
+Part A) Extra Credit. Run as java Fifteen ../pride-and-prejudice.txt    (Written in Java)  
+Part B) Run as node TwentyFour.js ../pride-and-prejudice.txt    (Written in Node.js) 
+
+If you do not pass the argument, the code will fail.
+Thanks
+
+############################################################################################################################
+Week 4
+############################################################################################################################
+Part A) Run as java Eleven ../pride-and-prejudice.txt    (Written in Java)
+Part B) Run as node Twelve.js ../pride-and-prejudice.txt    (Written in Node.js) 
+
+If you do not pass the argument, the code will fail.
+Thanks
+
+############################################################################################################################
+Week 3
+############################################################################################################################
+Part A) Run as python Seven.py ../pride-and-prejudice.txt    (Written in Python)
+Part B) Run as node Eight.js ../pride-and-prejudice.txt    (Written in Node.js) 
+
+If you do not pass the argument, the code will fail.
+Thanks
+
+############################################################################################################################
+Week 2
+############################################################################################################################
+Please run the two commands -
+
+java Four ../pride-and-prejudice.txt
+java Five ../pride-and-prejudice.txt
+
+If you do not pass the argument, the code will fail.
+Thanks
+
+############################################################################################################################
+Week 1
+############################################################################################################################
+Please run the following command -
+
+java Main ../pride-and-prejudice.txt
+
+If you do not pass the argument, the code will fail.
+Thanks
+
+P.S. Main.java is the only file used, please disregard the other two files - the whole code is in just one file.
